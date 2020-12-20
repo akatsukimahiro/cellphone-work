@@ -49,12 +49,12 @@ text-decoration: none;
    font-size: 30px;
   text-align: center;
   width: 20%;
-  height: 52%;
+  height: 40%;
   position: relative;
   display: inline-block;
   border: solid 3px #555;
   box-sizing: border-box;
-  padding-top: 60px;
+  padding-top: 10px;
   
 }
 .work-form a:hover{
